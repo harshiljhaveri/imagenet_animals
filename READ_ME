@@ -1,0 +1,10 @@
+Install Pytorch with CUDA
+-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+Install EfficientNet
+-pip install --upgrade efficientnet-pytorch
+Install Coca
+-pip install coca-pytorch
+-pip install vit-pytorch>=0.40.2
+-follow documentation at https://github.com/lucidrains/CoCa-pytorch
+Copy Imagenet Animal Dataset 
+-https://drive.google.com/file/d/1uqHkY4RKIYxsaqWKPrbLZAx3NJl04-oZ/view?usp=share_link
